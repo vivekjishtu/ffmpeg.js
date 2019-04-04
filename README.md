@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/ffmpeg.js.png?downloads=true)](https://www.npmjs.com/package/ffmpeg.js)
 
-[Test Page](https://vivekjishtu.github.io/ffmpeg.js/examples/async.html)
+[Async Example](https://vivekjishtu.github.io/ffmpeg.js/examples/async.html)
 
 This library provides FFmpeg builds ported to JavaScript using [Emscripten project](https://github.com/kripken/emscripten). Builds are optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc. Though they work in Node as well.
 
